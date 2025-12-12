@@ -1,0 +1,5 @@
+{
+  "name": "DeviceSense AI",
+  "description": "Your friendly, intelligent PC health assistant. Analyze storage, battery, and performance to get actionable optimization tips.",
+  "requestFramePermissions": []
+}
